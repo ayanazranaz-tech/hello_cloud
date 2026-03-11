@@ -7,4 +7,4 @@ def home():
 
 @app.route('/denemme')
 def denemme():
-  return"Hakkımda Sayfası"
+  return "Hakkımda Sayfası"
