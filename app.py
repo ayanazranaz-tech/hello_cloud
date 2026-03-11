@@ -7,4 +7,4 @@ def home():
 
 @app.route('/about')
 def about ():
-  return"Hakkımda Sayfası"
+  return "Hakkımda Sayfası"
