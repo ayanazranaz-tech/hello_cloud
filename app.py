@@ -6,5 +6,5 @@ def home():
   return "Merhaba, Buluttan Selam!"
 
 @app.route('/denemme')
-def denemme ():
-return"Hakkımda Sayfası"
+def denemme():
+ return"Hakkımda Sayfası"
